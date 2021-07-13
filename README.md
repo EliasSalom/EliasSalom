@@ -1,20 +1,22 @@
-#   wilcame to my page
-##  Hi, I’m [Elias Salom](http://github.com) From Isreal 👋
+#   wilcame to my page ![GitHub followers](https://img.shields.io/github/followers/EliasSalom?style=social)
+##  Hi, I’m [Elias Salom](http://github.com/eliassalom) From Isreal 👋
 
 
 ### I’m Software Engenner and web Developer :point_down:
 
  - **By Day** I Coding: Python, C/C++, unafraid of assembly, and Rust and C# are growing on me. I don't always develop database-driven
    applications, but when I do, I prefer PostgreSQL.
- - **By night** I Coding: HTML/CSS, JavaScript, Java, C#, and more. I've dabbled in hardware projects with Arduino and raspberry pi boards.
+ - **By night** I Coding: HTML/CSS, JavaScript, Java, and more. I've dabbled in hardware projects with Arduino and raspberry pi boards.
+
+
 
 i'm working with 
-Freamwork | Second Header
------------- | -------------
-Django | Python
-Express | TypeScript
-DotNet | C#
-Laravel | PHP
+Freamwork | language | Project link
+------------ | ------------- | -------------
+Django | Python | [click here](http://github.com)
+Express | TypeScript | [click here](http://github.com)
+DotNet | C# | [click here](http://github.com)
+Laravel | PHP | [click here](http://github.com)
  
 I'm a Linux guy, a Git fanboy, a fan of Debian and its derivatives, and usually a cheerleader for solving problems with free/open-source software. I've reverse-engineered a couple of interesting protocols and written cleanroom documentation.
 In terms of human languages, I speak Arabic, Hebrew, and English.
