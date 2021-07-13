@@ -1,5 +1,5 @@
-#   wilcame to my page ![GitHub followers](https://img.shields.io/github/followers/EliasSalom?style=social)
-##  Hi, I’m [Elias Salom](http://github.com/eliassalom) From Isreal 👋
+#   welcome to my page ![GitHub followers](https://img.shields.io/github/followers/EliasSalom?style=social)
+##  Hi, I’m [Elias Salom](https://eliassalom.github.io/Website/) From Isreal 👋
 
 
 ### I’m Software Engenner and web Developer :point_down:
@@ -23,10 +23,8 @@ In terms of human languages, I speak Arabic, Hebrew, and English.
 
 **you can to visit my profiles and know more about me**
 scoial media
-* [Oficiale Website](http://github.com)
-* [Facebook](http://github.com)
+* [Oficiale Website](https://eliassalom.github.io/Website/)
 * [linkedin](https://www.linkedin.com/in/elias-salom-8a9a756b/)
-* [Stack](http://github.com)
 * [Company](https://cybermood.io/)
 
 
