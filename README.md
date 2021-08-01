@@ -25,8 +25,8 @@ In terms of human languages, I speak Arabic, Hebrew, and English.
 
 **you can to visit my profiles and know more about me**
 scoial media
-* [Oficiale Website](https://eliassalom.github.io/Website/)
-* [linkedin](https://www.linkedin.com/in/elias-salom-8a9a756b/)
+* [Official website](https://eliassalom.github.io/Website/)
+* [Linkedin](https://www.linkedin.com/in/elias-salom-8a9a756b/)
 * [Company](https://cybermood.io/)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
