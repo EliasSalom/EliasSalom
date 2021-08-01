@@ -10,14 +10,13 @@
  - **By night** I Coding: HTML/CSS, JavaScript, Java, and more. I've dabbled in hardware projects with Arduino and raspberry pi boards.
 
 
-
-<!-- i'm working with 
+i'm working with 
 Freamwork | language | Project link
 ------------ | ------------- | -------------
 Django | Python | [click here](http://github.com)
 Express | TypeScript | [click here](http://github.com)
 DotNet | C# | [click here](http://github.com)
-Laravel | PHP | [click here](http://github.com) -->
+Laravel | PHP | [click here](http://github.com)
  
 I'm a Linux guy, a Git fanboy, a fan of Debian and its derivatives, and usually a cheerleader for solving problems with free/open-source software. I've reverse-engineered a couple of interesting protocols and written cleanroom documentation.
 In terms of human languages, I speak Arabic, Hebrew, and English.
