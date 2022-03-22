@@ -3,6 +3,7 @@
 ##   welcome To My Profile
 
 ![GitHub followers](https://img.shields.io/github/followers/EliasSalom?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=EliasSalom&style=for-the-badge)
 
 ### I’m Software Engenner and web Developer :point_down:
 with a vast array of knowledge in many different front-end and back-end languages, responsive frameworks, databases, and best code practices. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. and I believe that my understanding of problem-solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.
