@@ -47,9 +47,10 @@ Laravel | PHP | [click here](http://github.com) -->
 
 **you can to visit my profiles and know more about me**
 scoial media
-* [Official website](https://eliassalom.github.io/Website/)
+* [Official Website](https://eliassalom.github.io/Website/)
 * [Linkedin](https://www.linkedin.com/in/elias-salom-8a9a756b/)
 * [Company](https://cybermood.io/)
+* [NPM](https://www.npmjs.com/~eliassalom?activeTab=packages)
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
