@@ -38,14 +38,12 @@ In terms of human languages, I speak Arabic, Hebrew, and English.
 
 i'm working with 
 
-Freamwork | language | Project link
+<!-- Freamwork | language | Project link
 ------------- | ------------- | -------------- 
 Django | Python | [click here](http://github.com)
 node.js | JavaScript | [click here](http://github.com)
 DotNet | C# | [click here](http://github.com)
-Laravel | PHP | [click here](http://github.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasSalom&langs_count=3)](https://github.com/EliasSalom/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasSalom&show_icons=true)
+Laravel | PHP | [click here](http://github.com) -->
 
 **you can to visit my profiles and know more about me**
 scoial media
